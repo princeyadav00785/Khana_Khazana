@@ -20,7 +20,7 @@ Welcome to Khana Khazana, a fully responsive food app interface (Landing Page) t
 
 ## Preview
 
-For a live preview of the Khana Khazana app, visit [Khana Khazana - Live Preview](https://princeyadav00785.github.io/Khana_Khazana/)
+For a live preview of the Khana Khazana app, visit [Khana Khazana - Live Preview](https://dreamy-baklava-f1e83b.netlify.app/)
 
 ## Features
 
