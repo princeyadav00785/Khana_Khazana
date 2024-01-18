@@ -1,3 +1,7 @@
+# Khana Khazana - Food App Landing Page
+
+Welcome to Khana Khazana, a fully responsive food app interface (Landing Page) that showcases various sections to entice users. This project is created using HTML, CSS, and JS to provide a visually appealing and user-friendly experience.
+
 <!---->
 <div align="center">
 <img src="./ReadMeFiles/1.png" align="center">
@@ -13,9 +17,6 @@
 <img src="./ReadMeFiles/4.png" align="center">
 </div>
 
-# Khana Khazana - Food App Landing Page
-
-Welcome to Khana Khazana, a fully responsive food app interface (Landing Page) that showcases various sections to entice users. This project is created using HTML, CSS, and JS to provide a visually appealing and user-friendly experience.
 
 ## Preview
 
